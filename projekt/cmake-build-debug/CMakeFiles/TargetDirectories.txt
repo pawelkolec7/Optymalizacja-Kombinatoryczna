@@ -1,0 +1,3 @@
+C:/Users/Paweł/OneDrive/Pulpit/SEMESTR 3/OK/LAB/projekt/cmake-build-debug/CMakeFiles/projekt.dir
+C:/Users/Paweł/OneDrive/Pulpit/SEMESTR 3/OK/LAB/projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paweł/OneDrive/Pulpit/SEMESTR 3/OK/LAB/projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
