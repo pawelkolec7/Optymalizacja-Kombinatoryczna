@@ -1,0 +1,11 @@
+Stara wersja sprawdzarki:
+old_version\ver18-lin\chk_jsorl - linux
+old_version\ver18-win\chk_jsorl.exe - windows
+
+Nowa wersja sprawdzarki (2022r.)
+ver22-lin\chk_jsorl - linux
+ver22-win\chk_jsorl.exe - windows
+
+Je¿eli coœ Ÿle dzia³a, to proszê informowaæ.
+
+MD
